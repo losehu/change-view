@@ -1,0 +1,16 @@
+# ninja log v5
+48	5405	6699869450317671	CMakeFiles/untitled.dir/elc.cpp.obj	25a2110c359863c9
+1868	2011	1641354990598507210	opencv	7fde5c884d15081c
+7	5439	6699869450717687	CMakeFiles/untitled.dir/main.cpp.obj	46aa978832731bb7
+39	5640	6699869452717718	CMakeFiles/untitled.dir/Device.cpp.obj	9060b93a309b71cb
+2725	3419	6699870129459578	untitled.exe	2d09af2b8589e775
+43	6895	6699869465258920	CMakeFiles/untitled.dir/zf_device_icm20602.cpp.obj	d82749b69910e7f2
+29	6564	6699869461958903	CMakeFiles/untitled.dir/All_Init.cpp.obj	c6beb512ab4a0394
+53	6672	6699869463058929	CMakeFiles/untitled.dir/zf_device_mt9v03x.cpp.obj	d3250442adab2455
+12	5919	6699869455536179	CMakeFiles/untitled.dir/element.cpp.obj	2c92bfe880da9652
+15	5886	6699869455196115	CMakeFiles/untitled.dir/cam.cpp.obj	9510d9d179b5453f
+34	6256	6699869458858864	CMakeFiles/untitled.dir/control.cpp.obj	5e8b640f7ccb71ab
+8	2724	6699870122559622	CMakeFiles/untitled.dir/image_deal.cpp.obj	9ad497c6fab85efb
+24	6684	6699869463158917	CMakeFiles/untitled.dir/ty.cpp.obj	a2a866a81036247e
+9	3389	6704298805775670	CMakeFiles/untitled.dir/image_deal.cpp.obj	9ad497c6fab85efb
+3390	4170	6704298813575737	untitled.exe	2d09af2b8589e775
